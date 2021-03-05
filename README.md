@@ -4,6 +4,6 @@
 
 #### this is a CNN architure for recognizing numbers 0-5 in hand gestures using keras<br>
 # data set
-#### contains 500 training images of shape 64 * 64 * 3
+#### contains 500 training images of shape 64 * 64 * 3<br>
 # result
 #### %99 accuracy
